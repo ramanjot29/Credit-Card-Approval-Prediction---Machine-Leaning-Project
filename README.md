@@ -80,33 +80,33 @@ The primary objective of this project is to minimize the bank's risk and maximiz
 2. **Improving Model Accuracy**: Hyperparameter tuning using GridSearchCV.
 3. **Assessing the Best Model**: XG Boost emerges as the top-performing model with an accuracy of 95.81%.
 
-Project Components:
-Project Documentation in PDF form: "credit_Card_Doc_PPT"
 
-Raw data: "Credit_Card_raw"
+## Project Components:
 
-Cleaned data after cleaning: "Credit_cards_cleaned"
+- **Project Documentation in PDF form**: "credit_Card_Doc_PPT"
 
-Project Code: "Project_Credit_card2"
+- **Raw data**: "Credit_Card_raw"
 
-GUI: A Graphical User Interface developed for the project.
+- **Cleaned data after cleaning**: "Credit_cards_cleaned"
 
-MySQL Queries and Answers: The project includes a set of MySQL queries and their corresponding answers. Here are the questions addressed:
+- **Project Code**: "Project_Credit_card2"
 
-Group the customers based on their income type and find the average of their annual income.
+- **GUI**: A Graphical User Interface developed for the project.
 
-Find the female owners of cars and property.
+- **MySQL Queries and Answers**: The project includes a set of MySQL queries and their corresponding answers. Here are the questions addressed:
 
-Find the male customers who are staying with their families.
+   1. Group the customers based on their income type and find the average of their annual income.
 
-List the top five people having the highest income.
+   2. Find the female owners of cars and property.
 
-Determine how many married people have bad credit.
+   3. Find the male customers who are staying with their families.
 
-Identify the highest education level and its total count.
+   4. List the top five people having the highest income.
 
-Compare married males and females to see who has more bad credit.
+   5. Determine how many married people have bad credit.
+
+   6. Identify the highest education level and its total count.
+
+   7. Compare married males and females to see who has more bad credit.
 
 In conclusion, the "Credit Card Approval Prediction" project leverages data science and machine learning to optimize credit card application approval, providing valuable insights and a predictive model for responsible lending.
-
-
